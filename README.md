@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Centurybbx, a college student in Shanghai.
-- 👀 I’m currently learning some basic knowlegde about CS and striving for postgraduate degree!
-- 🌱 I'd like to make new friends in this community!
-- 💞️ Hoping every of us has a glorious future!
+#  Hi～
+- 妄图进入系统领域的新手
+- 兴趣：数据库、分布式系统、可搜索加密
+- 希望与志同道合的人一起探索未知的世界
 
 <!---
 Centurybbx/Centurybbx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
