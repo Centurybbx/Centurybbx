@@ -1,6 +1,6 @@
 #  Hi～
 - Noob in infra
-- Interest in database, distrubuted system, encrypted database
+- Interested in database, distrubuted system, encrypted database
 - Enthusiastic about discussions, enjoys exchanging different opinions
 
 <!---
